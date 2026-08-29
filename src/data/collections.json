@@ -1,0 +1,52 @@
+{
+  "collections": [
+    {
+      "id": "1",
+      "title": "Royal Maroon Bridal Lehenga",
+      "category": "bridal",
+      "image": "/images/collections/bridal-lehenga-maroon.png",
+      "description": "Exquisite velvet lehenga with intricate zardozi gold embroidery",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "Emerald Banarasi Silk Saree",
+      "category": "sarees",
+      "image": "/images/collections/banarasi-saree-green.png",
+      "description": "Handwoven Banarasi silk with traditional gold zari brocade",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Blush Pink Anarkali",
+      "category": "churidars",
+      "image": "/images/collections/anarkali-pink.png",
+      "description": "Delicate pearl and sequin embroidered floor-length Anarkali",
+      "featured": true
+    },
+    {
+      "id": "4",
+      "title": "Royal Blue Kanchipuram Saree",
+      "category": "sarees",
+      "image": "/images/collections/kanchipuram-blue.png",
+      "description": "Pure silk Kanchipuram with silver zari temple border",
+      "featured": true
+    },
+    {
+      "id": "5",
+      "title": "Ivory Gold Wedding Sherwani",
+      "category": "mens",
+      "image": "/images/collections/sherwani-ivory.png",
+      "description": "Premium silk sherwani with intricate gold threadwork",
+      "featured": true
+    },
+    {
+      "id": "6",
+      "title": "Purple Gold Tissue Silk Saree",
+      "category": "sarees",
+      "image": "/images/collections/tissue-saree-purple.png",
+      "description": "Handloom tissue silk with stunning gold pallu and shimmer",
+      "featured": true
+    }
+  ]
+}
